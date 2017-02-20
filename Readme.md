@@ -11,7 +11,7 @@ BigData Projects.
 
 #Building
 ----------
-
+git clone https://github.com/NajlaBH/BigData.git
 
 
 
