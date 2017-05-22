@@ -1,0 +1,11 @@
+sudo: required
+
+language: ruby
+
+services:
+	- docker
+
+before_install:
+	- docker pull najlabhbigdata/najlabh_debianbd
+script:
+	- docker run -d --net=host -p 9000:9000 najlabhbigdata/najlabh_debianbd:latest
