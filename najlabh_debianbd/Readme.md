@@ -1,15 +1,4 @@
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen">
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="javascripts/script.js"></script>
-  <script src="javascripts/scale.fix.js"></script>
-  <link rel="stylesheet" href="stylesheets/github-dark.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <title>Docker image for spark-notebook</title>
-</head>
 <body>
  <div class="wrapper">
       <header>
@@ -24,11 +13,11 @@
  <h1 id="idtitle2">
 <a id="ii-how-to-use-it" class="anchor" href="#ii-how-to-use-it" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>II. How to use it?</h1>
 <li style="display: inline;" >
-<a href="https://github.com/StackDevit/Spark-Projects/zipball/master">Download <strong>ZIP File</strong></a></li>
+<a href="https://github.com/NajlaBH/BigData/tree/master/najlabh_debianbd">Download <strong>ZIP File</strong></a></li>
 <li style="display: inline;" >
-<a href="https://github.com/StackDevit/Spark-Projects/tarball/master">Download <strong>TAR Ball</strong></a></li>
+<a href="https://github.com/NajlaBH/BigData/tree/master/najlabh_debianbd">Download <strong>TAR Ball</strong></a></li>
 <li style="display: inline;" >
-<a href="https://github.com/StackDevit/Spark-Projects">View On <strong>GitHub</strong></a></li></ul>
+<a href="https://github.com/NajlaBH/BigData">View On <strong>GitHub</strong></a></li></ul>
 </p>
 <h1 id="idtitle4">
 <a id="iv-issues-and-contributing" class="anchor" href="#iv-issues-and-contributing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>III. Issues and Contributing</h1> 
