@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Copyright (c) <2017> <BEN HASSINE Najla>
+Copyright (c) [2017] [Najla BEN HASSINE]
 
 L'autorisation est accordée, gracieusement, à toute personne acquérant une copie
  de cette bibliothèque et des fichiers de documentation associés (la "Bibliothèque"),
