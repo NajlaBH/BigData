@@ -2,22 +2,21 @@
 <body>
  <div class="wrapper">
       <header>
-        <h1 style="color:green;align="right";>Docker image for spark-notebook</h1><img src="Imgs/dockerSpark.png">
+        <h1 style="color:green;align=right;">Docker image for spark-notebook</h1><img src="Imgs/dockerSpark.png">
         <p>Spark, spark-notebook projects.</p>
+ 
 <h1 id="idtitle1">
-      </header>
-</div>
+
 <h1 id="idtitle1">
 <a id="i-what-is-this" class="anchor" href="#i-what-is-this" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>I. What is this?</h1>
 <p>Docker images based on Jessie for spark-notebook quick start.</p>
  <h1 id="idtitle2">
 <a id="ii-how-to-use-it" class="anchor" href="#ii-how-to-use-it" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>II. How to use it?</h1>
-<li style="display: inline;" >
-<a href="https://github.com/NajlaBH/BigData/tree/master/najlabh_debianbd">Download <strong>ZIP File</strong></a></li>
-<li style="display: inline;" >
-<a href="https://github.com/NajlaBH/BigData/tree/master/najlabh_debianbd">Download <strong>TAR Ball</strong></a></li>
-<li style="display: inline;" >
-<a href="https://github.com/NajlaBH/BigData">View On <strong>GitHub</strong></a></li></ul>
+
+<p> Pull the image from : <a href="https://hub.docker.com/r/najlabhbigdata/najlabh_debianbd/">https://hub.docker.com/r/najlabhbigdata/najlabh_debianbd</a>
+<br>
+
+<code>docker pull najlabhbigdata/najlabh_debianbd</code>
 </p>
 <h1 id="idtitle4">
 <a id="iv-issues-and-contributing" class="anchor" href="#iv-issues-and-contributing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>III. Issues and Contributing</h1> 
