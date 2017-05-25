@@ -8,7 +8,6 @@ BigData Projects.
 ### * Docker-images
 
 - SparkNotebook-Docker-Image
-	* Pull :
 	* Web site : https://github.com/NajlaBH/BigData/tree/master/najlabh_debianbd
 
 ### * Tools
