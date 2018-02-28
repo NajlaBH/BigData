@@ -1,0 +1,4 @@
+#.gitmodules
+[submodule "<path>"]
+  path = hadoop29stretch
+  url = https://github.com/NajlaBH/hadoop29stretch.git 
